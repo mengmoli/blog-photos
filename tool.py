@@ -6,6 +6,10 @@ import json
 from datetime import datetime
 from ImageProcess import Graphics
 
+print sys.getdefaultencoding()
+reload(sys)   #必须要reload
+sys.setdefaultencoding('utf-8')
+print sys.getdefaultencoding()
 # 定义压缩比，数值越大，压缩越小
 SIZE_normal = 1.0
 SIZE_small = 1.5
@@ -100,6 +104,8 @@ def handle_photo():
     list_info = []
     for i in range(len(file_list)):
         filename = file_list[i]
+        filename = filename.decode("gb2312")
+        print filename
         date_str, info = filename.split("_")
         info, _ = info.split(".")
         date = datetime.strptime(date_str, "%Y-%m-%d")
