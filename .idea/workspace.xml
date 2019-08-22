@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04d14f2a-7c89-41ad-bc8e-0fd931361459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_初音9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_少女.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_少女2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_月亮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_海棠.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2019-08-22_鸳鸯锅.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+            <state relative-caret-position="154">
+              <caret line="110" column="50" lean-forward="true" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -94,11 +84,6 @@
               <item name="blog-photos" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-photos" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog-photos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog-photos" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566458190143</updated>
-      <workItem from="1566458191543" duration="1674000" />
+      <workItem from="1566458191543" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1674000" />
+    <option name="totallyTimeSpent" value="1868000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -207,11 +192,11 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.48775056" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4688196" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -257,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="104" column="35" lean-forward="true" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+        <state relative-caret-position="154">
+          <caret line="110" column="50" lean-forward="true" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
         </state>
       </provider>
     </entry>
